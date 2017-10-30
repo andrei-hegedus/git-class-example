@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2376cb61-5900-4203-aa5d-7243502ea2d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/Product.java" afterPath="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/Product.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/StoreAggregator.java" afterPath="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/StoreAggregator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/domain/ProductSearch.java" afterPath="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/domain/ProductSearch.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/store1/Product.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -79,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StoreAggregator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StoreAggregator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/StoreAggregator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="378">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,8 +90,8 @@
       <file leaf-file-name="ProductSearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/domain/ProductSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="483">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -112,9 +110,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/StoreAggregator.java" />
         <option value="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/Product.java" />
         <option value="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/domain/ProductSearch.java" />
+        <option value="$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/StoreAggregator.java" />
       </list>
     </option>
   </component>
@@ -816,12 +814,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509385580478</updated>
-      <workItem from="1509385581852" duration="1531000" />
+      <workItem from="1509385581852" duration="2301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1531000" />
+    <option name="totallyTimeSpent" value="2301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -876,42 +874,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/store2/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/store2/Store2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/store1/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/store1/Store1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/domain/ProductSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -924,10 +890,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/domain/ProductSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/store2/Store2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/StoreAggregator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="378">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/store2/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StoreAggregator/src/main/java/ro/siit/java/gitex2/data/store1/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

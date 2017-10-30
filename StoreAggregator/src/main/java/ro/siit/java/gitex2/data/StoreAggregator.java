@@ -16,9 +16,12 @@ public class StoreAggregator {
         store2 = s2;
     }
 
-    public Product [] getProductsFromAllStores(){
+    //our data output:
+    public Product [] getProductsFromAllStores(String productName){
+
 
         //get Products from Store1
         //get Products from Store2
+        //turn products received to Product final version
     }
 }
