@@ -19,8 +19,12 @@ public class ProductSearch {
      * @param productName
      * @return
      */
+    private Product = new Product();
+
+
+
     public Product findProductWithCheapestPrice(String productName){
         return null;
     }
-
+        
 }
