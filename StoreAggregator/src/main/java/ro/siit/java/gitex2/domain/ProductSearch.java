@@ -11,6 +11,7 @@ public class ProductSearch {
     private StoreAggregator storeAggregator;
 
     public ProductSearch(StoreAggregator storeAggregator) {
+
         this.storeAggregator = storeAggregator;
     }
 

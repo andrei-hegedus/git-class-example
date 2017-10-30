@@ -17,6 +17,8 @@ public class StoreAggregator {
     }
 
     public Product [] getProductsFromAllStores(){
-        return null;
+
+        //get Products from Store1
+        //get Products from Store2
     }
 }
