@@ -26,5 +26,5 @@ public class ProductSearch {
     public Product findProductWithCheapestPrice(String productName){
         return null;
     }
-        
+        int smallestPrice
 }
